@@ -3,7 +3,7 @@ package com.collections.treeset;
 import java.util.Comparator;
 import java.util.TreeSet;
 
-//Write a Programa to inster integer objects into the TreeSet where the sorting 
+//Write a Program to insert integer objects into the TreeSet where the sorting 
 //order is descending order:
 class MyComparator implements Comparator {
 
